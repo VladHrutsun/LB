@@ -1,0 +1,5 @@
+﻿  UnitTest5.5.cpp
+C:\Users\lenovo\source\repos\Project5.5\Project5.5\Project5.5.cpp(20,33): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\lenovo\source\repos\Project5.5\UnitTest5.5\UnitTest5.5.cpp(16,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Users\lenovo\source\repos\Project5.5\x64\Debug\UnitTest5.5.lib and object C:\Users\lenovo\source\repos\Project5.5\x64\Debug\UnitTest5.5.exp
+  UnitTest5.5.vcxproj -> C:\Users\lenovo\source\repos\Project5.5\x64\Debug\UnitTest5.5.dll
